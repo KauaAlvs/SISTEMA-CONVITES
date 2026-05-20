@@ -68,4 +68,4 @@ Utilizamos uma stack robusta para garantir estabilidade e alta performance duran
 - [ ] Exportação de relatórios de auditoria em CSV para a direção escolar.
 
 ---
-*Desenvolvido com excelência por **HEIKA SOLUCTIONS LTDA**.*
+*Desenvolvido com excelência por **PASM LTDA**.*
